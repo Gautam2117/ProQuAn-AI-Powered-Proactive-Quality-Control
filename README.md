@@ -1,5 +1,3 @@
-![title.png](diag/title.png)
-
 The continuous advancement of technology paves the way for the progression we see in a lot of industries nowadays – from healthcare, transportation, and manufacturing, to name a few. If they are ideal or determinist is irrelevant to this discussion. In this blog, we take a look at manufacturing industries, explore the challenges they are facing, and experiment with today’s state-of-the-art machine learning and artificial intelligence technologies which we think can help with those challenges.
 
 In manufacturing industries, or any industry for that matter, quality assurance and control is one of the most vital parts of the process. It ensures that the goods, products, and/or services that go into stock and are delivered/provided to customers achieve the highest level of quality possible. Such quality is achieved by ensuring these deliverables meet a certain level of standard, and never go below a certain threshold. However, for manufacturing industries, ensuring such quality can be a challenging task because of four distinct reasons [(Zou, et. al., 2022)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900389.pdf).
